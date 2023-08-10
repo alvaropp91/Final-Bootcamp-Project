@@ -1,6 +1,6 @@
 # Final Bootcamp Project
 ## Name of the project
-Tech Stock Strategy
+Tech Stock Portfolio recommendation
 ## Context
 1. The datasets consist on daily stock prices and volume of six different tech companies: Amazon, Google, Alibaba, Tesla, Meta, Apple 
 ## Motivation
